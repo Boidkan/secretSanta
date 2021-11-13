@@ -7,6 +7,7 @@ Assumes that secrets.json is formatted as follows:
 {
   "email": "YOUR_EMAIL",
   "password": "YOUR_EMAIL_PASSWORD",
+  "organizer": "ORGANIZERS_NAME"
   "emailList": [
     [
       {"name": "a", "email": "a@gmail.com"},
